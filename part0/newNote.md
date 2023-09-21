@@ -1,4 +1,4 @@
-newNoteDiagram
+newNoteSequenceDiagram
     participant browser
     participant server
     
